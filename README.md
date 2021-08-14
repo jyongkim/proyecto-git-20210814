@@ -6,7 +6,7 @@ Proyecto comenzado en la clase 1 de EIT GIT Desarrollo colaborativo.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Descargar node.js desde nodejs.org versión 14.
 
 ```bash
 pip install foobar
