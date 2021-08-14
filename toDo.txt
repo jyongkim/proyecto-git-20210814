@@ -1,0 +1,8 @@
+Lista personal que no le importa a nadie más que al creador. Debe ser ignorada con .gitignore
+
++ Diseño
++ Maquetado
++ Programar
++ Hacer deploy de producción
+
+* Comprar el dominio
